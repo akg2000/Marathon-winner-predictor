@@ -6,3 +6,4 @@ User can input name and time of contestants, The App will give the winners.
 Currently supports 3 Marathon Formats.
 
 ### To Run just run the .exe file.
+Note : You need JRE >=1.7.0
