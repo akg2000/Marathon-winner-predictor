@@ -10,3 +10,5 @@ Note : You need JRE >=1.7.0 to run the exe file
 
 Download JRE : https://www.java.com/en/download/
 More about JRE : https://docs.oracle.com/javase/8/docs/
+
+If Windows warns about the application, just click on More info and proceed.
